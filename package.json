@@ -41,7 +41,7 @@
     "jose": "npm:jose-node-cjs-runtime@^3.11.3",
     "js-yaml": "^4.0.0",
     "make-fetch-happen": "https://github.com/tsibley/make-fetch-happen/tarball/882cb8bdb9f017268c4f0f2ce41b4df6f7ff9be9",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "mime": "^2.5.2",
     "negotiator": "^0.6.2",
     "node-fetch": "^2.6.0",
